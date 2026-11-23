@@ -1,0 +1,40 @@
+EZ Social Downloader 1.2.0  -  El Szaba
+=======================================
+
+INSTALL
+1. Unzip this folder.
+2. Double-click  EZ-Social-Downloader-Setup.exe
+3. If Windows shows a blue "Windows protected your PC" box:
+   click "More info", then click "Run anyway".
+4. Click Install. A desktop icon is created. Done.
+
+Everything is included (download engine, video converter).
+No Python, no admin rights, nothing else to install.
+
+USE
+1. Copy a video link (Share > Copy link) from TikTok, Instagram,
+   Facebook, YouTube, YouTube Shorts or X.
+2. Click Paste (you can paste many links, one per line).
+3. Pick what you want with the round buttons next to "Get:":
+     Video (MP4) / Audio (MP3) / Transcript - lyrics / Video + transcript
+4. Click DOWNLOAD. Files are saved to  Videos\EZ Downloads
+   in a folder for each site.
+
+NEW IN 1.2.0
+- Transcripts / lyrics: get just the words of a TikTok, YouTube,
+  Instagram, Facebook or X video - no video needed. They are saved in
+  Videos\EZ Downloads\Transcripts as a plain .txt file (plus a timed
+  .vtt or .srt caption file). English and Spanish captions are picked
+  first; if there are none, whatever language the video has.
+  Only videos that have captions have a transcript (the creator turned
+  captions on, or the site made automatic ones).
+- New rounded buttons and a cleaner look.
+- Newest download engine included.
+
+IF SOMETHING FAILS
+- Click "Update engine" and try again (sites change often).
+- A post says "Log in for access" (TikTok 18+, private posts):
+  click "Log in" under that site in the app, log in, click DONE.
+  A green check means you're logged in. Then download again.
+
+UNINSTALL: Settings > Apps > EZ Social Downloader > Uninstall.
